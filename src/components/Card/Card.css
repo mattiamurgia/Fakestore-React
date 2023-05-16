@@ -1,0 +1,11 @@
+.card {
+  width: auto;
+  padding: 10px !important;
+  margin-top: 30px;
+  background-color: whitesmoke;
+}
+.card-img-top {
+  width: 100%;
+  border-radius: 10%;
+  border-top: 10%;
+}
